@@ -11,7 +11,7 @@ Laravel Honeypot helps prevent bots from filling forms and creating spam. It use
 You can install the package via composer (the package will automatically register itself) :
 
 ```bash
-composer require weblogin/laravel-honeypot
+composer require jolimardi/laravel-honeypot
 ```
 
 Optionally, you can publish the `config` and `lang` files of the package :
