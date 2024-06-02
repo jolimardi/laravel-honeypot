@@ -6,7 +6,7 @@
         "honeypot",
         "form request",
         "laravel-honeypot",
-        "validation",
+        "validation"
     ],
     "homepage": "https://github.com/jolimardi/laravel-honeypot",
     "license": "MIT",
