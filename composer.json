@@ -12,23 +12,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "WebLogin",
-            "email": "contact@weblogin.fr"
-        },
-        {
             "name": "Romain Cherot",
             "email": "contact@cherot.fr"
         }
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/contracts": "^9.0|^10.0|^11.0",
-        "illuminate/support": "^9.0|^10.0|^11.0",
-        "illuminate/view": "^9.0|^10.0|^11.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^11",
-        "mockery/mockery": "^1.6"
+        "illuminate/contracts": "^9.0|^10.0|^11.0|^12.0|^13.0",
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0|^13.0",
+        "illuminate/view": "^9.0|^10.0|^11.0|^12.0|^13.0"
     },
     "autoload": {
         "psr-4": {
